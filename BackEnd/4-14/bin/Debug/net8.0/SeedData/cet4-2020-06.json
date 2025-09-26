@@ -1,0 +1,600 @@
+[
+  {
+    "level": "CET-4",
+    "year": 2020,
+    "session": 6,
+    "audioUrl": "/audio/cet4-2020-06.mp3",
+    "sections": [
+      {
+        "order": 1,
+        "questions": [
+          {
+            "order": 1,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Annoyed."
+              },
+              {
+                "label": "B",
+                "content": "Scared."
+              },
+              {
+                "label": "C",
+                "content": "Confused."
+              },
+              {
+                "label": "D",
+                "content": "Offended."
+              }
+            ]
+          },
+          {
+            "order": 2,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "It crawled over the woman's hands."
+              },
+              {
+                "label": "B",
+                "content": "It wound up on the steering wheel."
+              },
+              {
+                "label": "C",
+                "content": "It was killed by the police on the spot."
+              },
+              {
+                "label": "D",
+                "content": "It was covered with large scales."
+              }
+            ]
+          },
+          {
+            "order": 3,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "A study of the fast-food service."
+              },
+              {
+                "label": "B",
+                "content": "Fast food customer satisfaction."
+              },
+              {
+                "label": "C",
+                "content": "McDonald's new business strategies."
+              },
+              {
+                "label": "D",
+                "content": "Competition in the fast-food industry."
+              }
+            ]
+          },
+          {
+            "order": 4,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Customers' higher demands."
+              },
+              {
+                "label": "B",
+                "content": "The inefficiency of employees."
+              },
+              {
+                "label": "C",
+                "content": "Increased variety of products."
+              },
+              {
+                "label": "D",
+                "content": "The rising number of customers."
+              }
+            ]
+          },
+          {
+            "order": 5,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "International treaties regarding space travel programs."
+              },
+              {
+                "label": "B",
+                "content": "Legal issues involved in commercial space exploration."
+              },
+              {
+                "label": "C",
+                "content": "U.S. government's approval of private space missions."
+              },
+              {
+                "label": "D",
+                "content": "Competition among public and private space companies."
+              }
+            ]
+          },
+          {
+            "order": 6,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Deliver scientific equipment to the moon."
+              },
+              {
+                "label": "B",
+                "content": "Approve a new mission to travel into outer space."
+              },
+              {
+                "label": "C",
+                "content": "Work with federal agencies on space programs."
+              },
+              {
+                "label": "D",
+                "content": "Launch a manned spacecraft to Mars."
+              }
+            ]
+          },
+          {
+            "order": 7,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "It is significant."
+              },
+              {
+                "label": "B",
+                "content": "It is promising."
+              },
+              {
+                "label": "C",
+                "content": "It is unpredictable."
+              },
+              {
+                "label": "D",
+                "content": "It is unprofitable."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "questions": [
+          {
+            "order": 8,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Visiting her family in Thailand."
+              },
+              {
+                "label": "B",
+                "content": "Showing friends around Phuket."
+              },
+              {
+                "label": "C",
+                "content": "Swimming around a Thai island."
+              },
+              {
+                "label": "D",
+                "content": "Lying in the sun on a Thai beach."
+              }
+            ]
+          },
+          {
+            "order": 9,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "She visited a Thai orphanage."
+              },
+              {
+                "label": "B",
+                "content": "She met a Thai girl's parents."
+              },
+              {
+                "label": "C",
+                "content": "She learned some Thai words."
+              },
+              {
+                "label": "D",
+                "content": "She sunbathed on a Thai beach."
+              }
+            ]
+          },
+          {
+            "order": 10,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "His class will start in a minute."
+              },
+              {
+                "label": "B",
+                "content": "He has got an incoming phone call."
+              },
+              {
+                "label": "C",
+                "content": "Someone is knocking at his door."
+              },
+              {
+                "label": "D",
+                "content": "His phone is running out of power."
+              }
+            ]
+          },
+          {
+            "order": 11,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "He is interested in Thai artworks."
+              },
+              {
+                "label": "B",
+                "content": "He is going to open a souvenir shop."
+              },
+              {
+                "label": "C",
+                "content": "He collects things from different countries."
+              },
+              {
+                "label": "D",
+                "content": "He wants to know more about Thai culture."
+              }
+            ]
+          },
+          {
+            "order": 12,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Buying some fitness equipment for the new gym."
+              },
+              {
+                "label": "B",
+                "content": "Opening a gym and becoming personal trainers."
+              },
+              {
+                "label": "C",
+                "content": "Signing up for a weight-loss course."
+              },
+              {
+                "label": "D",
+                "content": "Trying out a new gym in town."
+              }
+            ]
+          },
+          {
+            "order": 13,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Professional personal training."
+              },
+              {
+                "label": "B",
+                "content": "Free exercise for the first week."
+              },
+              {
+                "label": "C",
+                "content": "A discount for a half-year membership."
+              },
+              {
+                "label": "D",
+                "content": "Additional benefits for young couples."
+              }
+            ]
+          },
+          {
+            "order": 14,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "The safety of weight-lifting."
+              },
+              {
+                "label": "B",
+                "content": "The high membership fee."
+              },
+              {
+                "label": "C",
+                "content": "The renewal of his membership."
+              },
+              {
+                "label": "D",
+                "content": "The operation of fitness equipment."
+              }
+            ]
+          },
+          {
+            "order": 15,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "She wants her invitation renewed."
+              },
+              {
+                "label": "B",
+                "content": "She used to do 200 sit-ups every day."
+              },
+              {
+                "label": "C",
+                "content": "She knows the basics of weight-lifting."
+              },
+              {
+                "label": "D",
+                "content": "She used to be the gym's personal trainer."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "questions": [
+          {
+            "order": 16,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "They tend to be nervous during interviews."
+              },
+              {
+                "label": "B",
+                "content": "They often apply for a number of positions."
+              },
+              {
+                "label": "C",
+                "content": "They worry about the results of their applications."
+              },
+              {
+                "label": "D",
+                "content": "They search extensively for employers' information."
+              }
+            ]
+          },
+          {
+            "order": 17,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Get better organized."
+              },
+              {
+                "label": "B",
+                "content": "Edit their references."
+              },
+              {
+                "label": "C",
+                "content": "Find better-paid jobs."
+              },
+              {
+                "label": "D",
+                "content": "Analyze the searching process."
+              }
+            ]
+          },
+          {
+            "order": 18,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Provide their data in detail."
+              },
+              {
+                "label": "B",
+                "content": "Personalize each application."
+              },
+              {
+                "label": "C",
+                "content": "Make use of better search engines."
+              },
+              {
+                "label": "D",
+                "content": "Apply for more promising positions."
+              }
+            ]
+          },
+          {
+            "order": 19,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "If kids did not like school, real learning would not take place."
+              },
+              {
+                "label": "B",
+                "content": "If not forced to go to school, kids would be out in the streets."
+              },
+              {
+                "label": "C",
+                "content": "If schools stayed the way they are, parents were sure to protest."
+              },
+              {
+                "label": "D",
+                "content": "If teaching failed to improve, kids would stay away from school."
+              }
+            ]
+          },
+          {
+            "order": 20,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Allow them to play interesting games in class."
+              },
+              {
+                "label": "B",
+                "content": "Try to stir up their interest in lab experiments."
+              },
+              {
+                "label": "C",
+                "content": "Let them stay home and learn from their parents."
+              },
+              {
+                "label": "D",
+                "content": "Design activities they now enjoy doing on holidays."
+              }
+            ]
+          },
+          {
+            "order": 21,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Allow kids to learn at their own pace."
+              },
+              {
+                "label": "B",
+                "content": "Encourage kids to learn from each other."
+              },
+              {
+                "label": "C",
+                "content": "Organize kids into various interest groups."
+              },
+              {
+                "label": "D",
+                "content": "Take kids out of school to learn at first hand."
+              }
+            ]
+          },
+          {
+            "order": 22,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "It is especially popular in Florida and Alaska."
+              },
+              {
+                "label": "B",
+                "content": "It is a major social activity among the young."
+              },
+              {
+                "label": "C",
+                "content": "It is seen almost anywhere and on any occasion."
+              },
+              {
+                "label": "D",
+                "content": "It is even more expressive than the written word."
+              }
+            ]
+          },
+          {
+            "order": 23,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "It is located in a big city in Iowa."
+              },
+              {
+                "label": "B",
+                "content": "It is really marvelous to look at."
+              },
+              {
+                "label": "C",
+                "content": "It offers free dance classes to seniors."
+              },
+              {
+                "label": "D",
+                "content": "It offers people a chance to socialize."
+              }
+            ]
+          },
+          {
+            "order": 24,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Their state of mind improved."
+              },
+              {
+                "label": "B",
+                "content": "They became better dancers."
+              },
+              {
+                "label": "C",
+                "content": "They enjoyed better health."
+              },
+              {
+                "label": "D",
+                "content": "Their relationship strengthened."
+              }
+            ]
+          },
+          {
+            "order": 25,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "It is fun."
+              },
+              {
+                "label": "B",
+                "content": "It is life."
+              },
+              {
+                "label": "C",
+                "content": "It is exhausting."
+              },
+              {
+                "label": "D",
+                "content": "It is rhythmical."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,600 @@
+[
+  {
+    "level": "CET-6",
+    "year": 2019,
+    "session": 6,
+    "audioUrl": "/audio/cet6-2019-06.mp3",
+    "sections": [
+      {
+        "order": 1,
+        "questions": [
+          {
+            "order": 1,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Why Roman Holiday was more famous than Breakfast at Tiffany's."
+              },
+              {
+                "label": "B",
+                "content": "Why Audrey Hepburn had more female fans than male ones."
+              },
+              {
+                "label": "C",
+                "content": "Why the woman wanted to be like Audrey Hepburn."
+              },
+              {
+                "label": "D",
+                "content": "Why so many girls adored Audrey Hepburn."
+              }
+            ]
+          },
+          {
+            "order": 2,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Her unique personality."
+              },
+              {
+                "label": "B",
+                "content": "Her physical condition."
+              },
+              {
+                "label": "C",
+                "content": "Her shift of interest to performing arts."
+              },
+              {
+                "label": "D",
+                "content": "Her family's suspension of financial aid."
+              }
+            ]
+          },
+          {
+            "order": 3,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "She was not an outgoing person."
+              },
+              {
+                "label": "B",
+                "content": "She was modest and hardworking."
+              },
+              {
+                "label": "C",
+                "content": "She was easy-going on the whole."
+              },
+              {
+                "label": "D",
+                "content": "She was usually not very optimistic."
+              }
+            ]
+          },
+          {
+            "order": 4,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "She was influenced by the roles she played in the films."
+              },
+              {
+                "label": "B",
+                "content": "Her parents taught her to sympathize with the needy."
+              },
+              {
+                "label": "C",
+                "content": "She learned to volunteer when she was a child."
+              },
+              {
+                "label": "D",
+                "content": "Her family benefited from other people's help."
+              }
+            ]
+          },
+          {
+            "order": 5,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Give a presentation."
+              },
+              {
+                "label": "B",
+                "content": "Raise some questions."
+              },
+              {
+                "label": "C",
+                "content": "Start a new company."
+              },
+              {
+                "label": "D",
+                "content": "Attend a board meeting."
+              }
+            ]
+          },
+          {
+            "order": 6,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "It will cut production costs."
+              },
+              {
+                "label": "B",
+                "content": "It will raise productivity."
+              },
+              {
+                "label": "C",
+                "content": "No staff will be dismissed."
+              },
+              {
+                "label": "D",
+                "content": "No new staff will be hired."
+              }
+            ]
+          },
+          {
+            "order": 7,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "The timeline of restructuring."
+              },
+              {
+                "label": "B",
+                "content": "The reasons for restructuring."
+              },
+              {
+                "label": "C",
+                "content": "The communication channels."
+              },
+              {
+                "label": "D",
+                "content": "The company's new missions."
+              }
+            ]
+          },
+          {
+            "order": 8,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "By consulting their own department managers."
+              },
+              {
+                "label": "B",
+                "content": "By emailing questions to the man or the woman."
+              },
+              {
+                "label": "C",
+                "content": "By exploring various channels of communication."
+              },
+              {
+                "label": "D",
+                "content": "By visiting the company's own computer network."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "questions": [
+          {
+            "order": 9,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "It helps passengers to take care of their pet animals."
+              },
+              {
+                "label": "B",
+                "content": "It has animals to help passengers carry their luggage."
+              },
+              {
+                "label": "C",
+                "content": "It uses therapy animals to soothe nervous passengers."
+              },
+              {
+                "label": "D",
+                "content": "It allows passengers to have animals travel with them."
+              }
+            ]
+          },
+          {
+            "order": 10,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Avoiding possible dangers."
+              },
+              {
+                "label": "B",
+                "content": "Finding their way around."
+              },
+              {
+                "label": "C",
+                "content": "Identifying drug smugglers."
+              },
+              {
+                "label": "D",
+                "content": "Looking after sick passengers."
+              }
+            ]
+          },
+          {
+            "order": 11,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Schedule their flights around the animal visits."
+              },
+              {
+                "label": "B",
+                "content": "Photograph the therapy animals at the airport."
+              },
+              {
+                "label": "C",
+                "content": "Keep some animals for therapeutic purposes."
+              },
+              {
+                "label": "D",
+                "content": "Bring their pet animals on board their plane."
+              }
+            ]
+          },
+          {
+            "order": 12,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Beside a beautifully painted wall in Arles."
+              },
+              {
+                "label": "B",
+                "content": "Beside the gate of an ancient Roman city."
+              },
+              {
+                "label": "C",
+                "content": "At the site of an ancient Roman mansion."
+              },
+              {
+                "label": "D",
+                "content": "At the entrance to a reception hall in Rome."
+              }
+            ]
+          },
+          {
+            "order": 13,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "A number of different images."
+              },
+              {
+                "label": "B",
+                "content": "A number of mythological heroes."
+              },
+              {
+                "label": "C",
+                "content": "Various musical instruments."
+              },
+              {
+                "label": "D",
+                "content": "Paintings by famous French artists."
+              }
+            ]
+          },
+          {
+            "order": 14,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "The originality and expertise shown."
+              },
+              {
+                "label": "B",
+                "content": "The stunning images vividly depicted."
+              },
+              {
+                "label": "C",
+                "content": "The worldly sophistication displayed."
+              },
+              {
+                "label": "D",
+                "content": "The impressive skills and costly dyes."
+              }
+            ]
+          },
+          {
+            "order": 15,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "His artistic taste is superb."
+              },
+              {
+                "label": "B",
+                "content": "His identity remains unclear."
+              },
+              {
+                "label": "C",
+                "content": "He was a collector of antiques."
+              },
+              {
+                "label": "D",
+                "content": "He was a rich Italian merchant."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "questions": [
+          {
+            "order": 16,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "They encourage international cooperation."
+              },
+              {
+                "label": "B",
+                "content": "They lay stress on basic scientific research."
+              },
+              {
+                "label": "C",
+                "content": "They place great emphasis on empirical studies."
+              },
+              {
+                "label": "D",
+                "content": "They favour scientists from its member countries."
+              }
+            ]
+          },
+          {
+            "order": 17,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Many of them wish to win international recognition."
+              },
+              {
+                "label": "B",
+                "content": "They believe that more hands will make light work."
+              },
+              {
+                "label": "C",
+                "content": "They want to follow closely the international trend."
+              },
+              {
+                "label": "D",
+                "content": "Many of their projects have become complicated."
+              }
+            ]
+          },
+          {
+            "order": 18,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "It requires mathematicians to work independently."
+              },
+              {
+                "label": "B",
+                "content": "It is faced with many unprecedented challenges."
+              },
+              {
+                "label": "C",
+                "content": "It lags behind other disciplines in collaboration."
+              },
+              {
+                "label": "D",
+                "content": "It calls for more research funding to catch up."
+              }
+            ]
+          },
+          {
+            "order": 19,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Scientists tried to send a balloon to Venus."
+              },
+              {
+                "label": "B",
+                "content": "Scientists discovered water on Venus."
+              },
+              {
+                "label": "C",
+                "content": "Scientists found Venus had atmosphere."
+              },
+              {
+                "label": "D",
+                "content": "Scientists observed Venus from a space vehicle."
+              }
+            ]
+          },
+          {
+            "order": 20,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "It resembles Earth in many aspects."
+              },
+              {
+                "label": "B",
+                "content": "It is the same as fiction has portrayed."
+              },
+              {
+                "label": "C",
+                "content": "It is a paradise of romance for alien life."
+              },
+              {
+                "label": "D",
+                "content": "It undergoes geological changes like Earth."
+              }
+            ]
+          },
+          {
+            "order": 21,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "It might have been hotter than it is today."
+              },
+              {
+                "label": "B",
+                "content": "It might have been a cozy habitat for life."
+              },
+              {
+                "label": "C",
+                "content": "It used to have more water than Earth."
+              },
+              {
+                "label": "D",
+                "content": "It used to be covered with rainforests."
+              }
+            ]
+          },
+          {
+            "order": 22,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Causes of sleeplessness."
+              },
+              {
+                "label": "B",
+                "content": "Cross-cultural communication."
+              },
+              {
+                "label": "C",
+                "content": "Cultural psychology."
+              },
+              {
+                "label": "D",
+                "content": "Motivation and positive feelings."
+              }
+            ]
+          },
+          {
+            "order": 23,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "They attach great importance to sleep."
+              },
+              {
+                "label": "B",
+                "content": "They often have trouble falling asleep."
+              },
+              {
+                "label": "C",
+                "content": "They pay more attention to sleep efficiency."
+              },
+              {
+                "label": "D",
+                "content": "They generally sleep longer than East Asians."
+              }
+            ]
+          },
+          {
+            "order": 24,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "By asking people to report their sleep habits."
+              },
+              {
+                "label": "B",
+                "content": "By observing people's sleep patterns in labs."
+              },
+              {
+                "label": "C",
+                "content": "By having people wear motion-detecting watches."
+              },
+              {
+                "label": "D",
+                "content": "By videotaping people's daily sleeping processes."
+              }
+            ]
+          },
+          {
+            "order": 25,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "It has made remarkable progress in the past few decades."
+              },
+              {
+                "label": "B",
+                "content": "It has not yet explored the cross-cultural aspect of sleep."
+              },
+              {
+                "label": "C",
+                "content": "It has not yet produced anything conclusive."
+              },
+              {
+                "label": "D",
+                "content": "It has attracted attention all over the world."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

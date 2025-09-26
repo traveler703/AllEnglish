@@ -1,0 +1,600 @@
+[
+  {
+	"level": "CET-4",
+	"year": 2019,
+	"session": 6,
+	"audioUrl": "/audio/cet4-2019-06.mp3",
+	"sections": [
+	  {
+		"order": 1,
+		"questions": [
+		  {
+			"order": 1,
+			"stem": "",
+			"correctOption": "B",
+			"options": [
+			  {
+				"label": "A",
+				"content": "Heavy floods."
+			  },
+			  {
+				"label": "B",
+				"content": "Safety concerns."
+			  },
+			  {
+				"label": "C",
+				"content": "Bad economy."
+			  },
+			  {
+				"label": "D",
+				"content": "Workers' strikes."
+			  }
+			]
+		  },
+		  {
+			"order": 2,
+			"stem": "",
+			"correctOption": "D",
+			"options": [
+			  {
+				"label": "A",
+				"content": "It is competitive with its numerous tourist destinations."
+			  },
+			  {
+				"label": "B",
+				"content": "It provides many job opportunities for French people."
+			  },
+			  {
+				"label": "C",
+				"content": "It is the biggest concern of the French government."
+			  },
+			  {
+				"label": "D",
+				"content": "It plays an important role in the nation's economy."
+			  }
+			]
+		  },
+		  {
+			"order": 3,
+			"stem": "",
+			"correctOption": "C",
+			"options": [
+			  {
+				"label": "A",
+				"content": "To carry out a scientific survey."
+			  },
+			  {
+				"label": "B",
+				"content": "To establish a new research station."
+			  },
+			  {
+				"label": "C",
+				"content": "To rescue two sick American workers."
+			  },
+			  {
+				"label": "D",
+				"content": "To deliver urgent medical supplies."
+			  }
+			]
+		  },
+		  {
+			"order": 4,
+			"stem": "",
+			"correctOption": "A",
+			"options": [
+			  {
+				"label": "A",
+				"content": "The darkness and cold."
+			  },
+			  {
+				"label": "B",
+				"content": "The heavy snow and fog."
+			  },
+			  {
+				"label": "C",
+				"content": "The biting winds."
+			  },
+			  {
+				"label": "D",
+				"content": "The ice all around."
+			  }
+			]
+		  },
+		  {
+			"order": 5,
+			"stem": "",
+			"correctOption": "D",
+			"options": [
+			  {
+				"label": "A",
+				"content": "By tying it to a door handle."
+			  },
+			  {
+				"label": "B",
+				"content": "By shaking it back and forth."
+			  },
+			  {
+				"label": "C",
+				"content": "With a remote control craft."
+			  },
+			  {
+				"label": "D",
+				"content": "With a full-sized helicopter."
+			  }
+			]
+		  },
+		  {
+			"order": 6,
+			"stem": "",
+			"correctOption": "B",
+			"options": [
+			  {
+				"label": "A",
+				"content": "He has lots of fans on Facebook."
+			  },
+			  {
+				"label": "B",
+				"content": "He has rich experience in flying."
+			  },
+			  {
+				"label": "C",
+				"content": "He often suffers from toothaches."
+			  },
+			  {
+				"label": "D",
+				"content": "He has learned to pull teeth from a video."
+			  }
+			]
+		  },
+		  {
+			"order": 7,
+			"stem": "",
+			"correctOption": "C",
+			"options": [
+			  {
+				"label": "A",
+				"content": "Spend more time together."
+			  },
+			  {
+				"label": "B",
+				"content": "Tell them adventure stories."
+			  },
+			  {
+				"label": "C",
+				"content": "Do something fun and creative."
+			  },
+			  {
+				"label": "D",
+				"content": "Play with them in a safe place."
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"order": 2,
+		"questions": [
+		  {
+			"order": 8,
+			"stem": "",
+			"correctOption": "D",
+			"options": [
+			  {
+				"label": "A",
+				"content": "To confirm an urgent appointment."
+			  },
+			  {
+				"label": "B",
+				"content": "To collect a package from the woman."
+			  },
+			  {
+				"label": "C",
+				"content": "To ask the woman to sign a document."
+			  },
+			  {
+				"label": "D",
+				"content": "To arrange the delivery of a package."
+			  }
+			]
+		  },
+		  {
+			"order": 9,
+			"stem": "",
+			"correctOption": "C",
+			"options": [
+			  {
+				"label": "A",
+				"content": "She is doing shopping."
+			  },
+			  {
+				"label": "B",
+				"content": "She is visiting a friend."
+			  },
+			  {
+				"label": "C",
+				"content": "She is not at home."
+			  },
+			  {
+				"label": "D",
+				"content": "She is not feeling well."
+			  }
+			]
+		  },
+		  {
+			"order": 10,
+			"stem": "",
+			"correctOption": "B",
+			"options": [
+			  {
+				"label": "A",
+				"content": "He will be off duty the whole day."
+			  },
+			  {
+				"label": "B",
+				"content": "He will be working somewhere else."
+			  },
+			  {
+				"label": "C",
+				"content": "He will have to have his car repaired."
+			  },
+			  {
+				"label": "D",
+				"content": "He will be too busy to spare any time."
+			  }
+			]
+		  },
+		  {
+			"order": 11,
+			"stem": "",
+			"correctOption": "A",
+			"options": [
+			  {
+				"label": "A",
+				"content": "Sign her name."
+			  },
+			  {
+				"label": "B",
+				"content": "Confirm online."
+			  },
+			  {
+				"label": "C",
+				"content": "Pay a small fee."
+			  },
+			  {
+				"label": "D",
+				"content": "Show up in person."
+			  }
+			]
+		  },
+		  {
+			"order": 12,
+			"stem": "",
+			"correctOption": "B",
+			"options": [
+			  {
+				"label": "A",
+				"content": "Vacation in Italy."
+			  },
+			  {
+				"label": "B",
+				"content": "Study abroad."
+			  },
+			  {
+				"label": "C",
+				"content": "Throw a farewell party."
+			  },
+			  {
+				"label": "D",
+				"content": "Go to a fashion show in Milan."
+			  }
+			]
+		  },
+		  {
+			"order": 13,
+			"stem": "",
+			"correctOption": "C",
+			"options": [
+			  {
+				"label": "A",
+				"content": "Quite sleepy."
+			  },
+			  {
+				"label": "B",
+				"content": "Very excited."
+			  },
+			  {
+				"label": "C",
+				"content": "Rather depressed."
+			  },
+			  {
+				"label": "D",
+				"content": "Nearly exhausted."
+			  }
+			]
+		  },
+		  {
+			"order": 14,
+			"stem": "",
+			"correctOption": "D",
+			"options": [
+			  {
+				"label": "A",
+				"content": "He has to attend a party."
+			  },
+			  {
+				"label": "B",
+				"content": "He has to meet a friend."
+			  },
+			  {
+				"label": "C",
+				"content": "He has to make a presentation."
+			  },
+			  {
+				"label": "D",
+				"content": "He has to finish an assignment."
+			  }
+			]
+		  },
+		  {
+			"order": 15,
+			"stem": "",
+			"correctOption": "A",
+			"options": [
+			  {
+				"label": "A",
+				"content": "Say goodbye to the woman at the airport."
+			  },
+			  {
+				"label": "B",
+				"content": "Meet the woman at the Black Cat Cafe."
+			  },
+			  {
+				"label": "C",
+				"content": "Drive the woman to the airport."
+			  },
+			  {
+				"label": "D",
+				"content": "Have lunch with the woman."
+			  }
+			]
+		  }
+		]
+	  },
+	  {
+		"order": 3,
+		"questions": [
+		  {
+			"order": 16,
+			"stem": "",
+			"correctOption": "C",
+			"options": [
+			  {
+				"label": "A",
+				"content": "It has kept growing over the centuries."
+			  },
+			  {
+				"label": "B",
+				"content": "Its top is hidden in clouds of volcanic smoke."
+			  },
+			  {
+				"label": "C",
+				"content": "Its height changes with each volcanic eruption."
+			  },
+			  {
+				"label": "D",
+				"content": "It has a recorded history of 1,500 years."
+			  }
+			]
+		  },
+		  {
+			"order": 17,
+			"stem": "",
+			"correctOption": "D",
+			"options": [
+			  {
+				"label": "A",
+				"content": "They are now a tourist destination."
+			  },
+			  {
+				"label": "B",
+				"content": "They attract a lot of migrating birds."
+			  },
+			  {
+				"label": "C",
+				"content": "They provide shelter for the farmers."
+			  },
+			  {
+				"label": "D",
+				"content": "They make good fields for farming."
+			  }
+			]
+		  },
+		  {
+			"order": 18,
+			"stem": "",
+			"correctOption": "B",
+			"options": [
+			  {
+				"label": "A",
+				"content": "They nest on the volcano's slopes."
+			  },
+			  {
+				"label": "B",
+				"content": "They feed on certain small mammals."
+			  },
+			  {
+				"label": "C",
+				"content": "They compete with each other for food."
+			  },
+			  {
+				"label": "D",
+				"content": "They match large mammals in strength."
+			  }
+			]
+		  },
+		  {
+			"order": 19,
+			"stem": "",
+			"correctOption": "A",
+			"options": [
+			  {
+				"label": "A",
+				"content": "He is self-employed."
+			  },
+			  {
+				"label": "B",
+				"content": "He is a career advisor."
+			  },
+			  {
+				"label": "C",
+				"content": "He studies talent."
+			  },
+			  {
+				"label": "D",
+				"content": "He owns a magazine."
+			  }
+			]
+		  },
+		  {
+			"order": 20,
+			"stem": "",
+			"correctOption": "B",
+			"options": [
+			  {
+				"label": "A",
+				"content": "Doing what they like best."
+			  },
+			  {
+				"label": "B",
+				"content": "Loving the work they do."
+			  },
+			  {
+				"label": "C",
+				"content": "Making no excuses for failures."
+			  },
+			  {
+				"label": "D",
+				"content": "Following their natural instinct."
+			  }
+			]
+		  },
+		  {
+			"order": 21,
+			"stem": "",
+			"correctOption": "A",
+			"options": [
+			  {
+				"label": "A",
+				"content": "It does not come to anything without hard work."
+			  },
+			  {
+				"label": "B",
+				"content": "It may prove to be quite different from hard work."
+			  },
+			  {
+				"label": "C",
+				"content": "It is a natural gift only some special people can possess."
+			  },
+			  {
+				"label": "D",
+				"content": "It does not come to you until something special happens."
+			  }
+			]
+		  },
+		  {
+			"order": 22,
+			"stem": "",
+			"correctOption": "D",
+			"options": [
+			  {
+				"label": "A",
+				"content": "It is a bit difficult to learn."
+			  },
+			  {
+				"label": "B",
+				"content": "It was popular in New Zealand."
+			  },
+			  {
+				"label": "C",
+				"content": "It is a traditional type of ballet."
+			  },
+			  {
+				"label": "D",
+				"content": "It evolved in the mid-1970s."
+			  }
+			]
+		  },
+		  {
+			"order": 23,
+			"stem": "",
+			"correctOption": "C",
+			"options": [
+			  {
+				"label": "A",
+				"content": "She wanted her to be a ballet dancer."
+			  },
+			  {
+				"label": "B",
+				"content": "She used to be a ballet dancer herself."
+			  },
+			  {
+				"label": "C",
+				"content": "She hated to see her idling about."
+			  },
+			  {
+				"label": "D",
+				"content": "She was too busy to look after her."
+			  }
+			]
+		  },
+		  {
+			"order": 24,
+			"stem": "",
+			"correctOption": "A",
+			"options": [
+			  {
+				"label": "A",
+				"content": "After she started teaching English."
+			  },
+			  {
+				"label": "B",
+				"content": "Before she left for New Zealand."
+			  },
+			  {
+				"label": "C",
+				"content": "When she moved to New York City."
+			  },
+			  {
+				"label": "D",
+				"content": "Once she began to live on her own."
+			  }
+			]
+		  },
+		  {
+			"order": 25,
+			"stem": "",
+			"correctOption": "B",
+			"options": [
+			  {
+				"label": "A",
+				"content": "It has renewed her passion for life."
+			  },
+			  {
+				"label": "B",
+				"content": "It has made her happy and energetic."
+			  },
+			  {
+				"label": "C",
+				"content": "It has helped her make new friends."
+			  },
+			  {
+				"label": "D",
+				"content": "It has enabled her to start a new career."
+			  }
+			]
+		  }
+		]
+	  }
+	]
+  }
+]

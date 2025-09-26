@@ -1,0 +1,600 @@
+[
+  {
+    "level": "CET-6",
+    "year": 2020,
+    "session": 6,
+    "audioUrl": "/audio/cet6-2020-06.mp3",
+    "sections": [
+      {
+        "order": 1,
+        "questions": [
+          {
+            "order": 1,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "She advocates animal protection."
+              },
+              {
+                "label": "B",
+                "content": "She sells a special kind of coffee."
+              },
+              {
+                "label": "C",
+                "content": "She is going to start a caf�� chain."
+              },
+              {
+                "label": "D",
+                "content": "She is the owner of a special caf��."
+              }
+            ]
+          },
+          {
+            "order": 2,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "They bear a lot of similarities."
+              },
+              {
+                "label": "B",
+                "content": "They are a profitable business sector."
+              },
+              {
+                "label": "C",
+                "content": "They cater to different customers."
+              },
+              {
+                "label": "D",
+                "content": "They help take care of customers' pets."
+              }
+            ]
+          },
+          {
+            "order": 3,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "By giving them regular cleaning and injections."
+              },
+              {
+                "label": "B",
+                "content": "By selecting breeds that are tame and peaceful."
+              },
+              {
+                "label": "C",
+                "content": "By placing them at a safe distance from customers."
+              },
+              {
+                "label": "D",
+                "content": "By briefing customers on how to get along with them."
+              }
+            ]
+          },
+          {
+            "order": 4,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "They want to learn about rabbits."
+              },
+              {
+                "label": "B",
+                "content": "They like to bring in their children."
+              },
+              {
+                "label": "C",
+                "content": "They love the animals in her caf��."
+              },
+              {
+                "label": "D",
+                "content": "They give her caf�� favorite reviews."
+              }
+            ]
+          },
+          {
+            "order": 5,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "It contains too many additives."
+              },
+              {
+                "label": "B",
+                "content": "It lacks the essential vitamins."
+              },
+              {
+                "label": "C",
+                "content": "It can cause obesity."
+              },
+              {
+                "label": "D",
+                "content": "It is mostly garbage."
+              }
+            ]
+          },
+          {
+            "order": 6,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Its fancy design."
+              },
+              {
+                "label": "B",
+                "content": "TV commercials."
+              },
+              {
+                "label": "C",
+                "content": "Its taste and texture."
+              },
+              {
+                "label": "D",
+                "content": "Peer influence."
+              }
+            ]
+          },
+          {
+            "order": 7,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Investing heavily in the production of sweet foods."
+              },
+              {
+                "label": "B",
+                "content": "Marketing their products with ordinary ingredients."
+              },
+              {
+                "label": "C",
+                "content": "Trying to trick children into buying their products."
+              },
+              {
+                "label": "D",
+                "content": "Offering children more varieties to choose from."
+              }
+            ]
+          },
+          {
+            "order": 8,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "They hardly ate vegetables."
+              },
+              {
+                "label": "B",
+                "content": "They seldom had junk food."
+              },
+              {
+                "label": "C",
+                "content": "They favored chocolate-coated sweets."
+              },
+              {
+                "label": "D",
+                "content": "They liked the food advertised on TV."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "questions": [
+          {
+            "order": 9,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Stretches of farmland."
+              },
+              {
+                "label": "B",
+                "content": "Typical Egyptian animal farms."
+              },
+              {
+                "label": "C",
+                "content": "Tombs of ancient rulers."
+              },
+              {
+                "label": "D",
+                "content": "Ruins left by devastating floods."
+              }
+            ]
+          },
+          {
+            "order": 10,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "It provides habitats for more primitive tribes."
+              },
+              {
+                "label": "B",
+                "content": "It is hardly associated with great civilizations."
+              },
+              {
+                "label": "C",
+                "content": "It has not yet been fully explored and exploited."
+              },
+              {
+                "label": "D",
+                "content": "It gathers water from many tropical rain forests."
+              }
+            ]
+          },
+          {
+            "order": 11,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "It carries about one fifth of the world's fresh water."
+              },
+              {
+                "label": "B",
+                "content": "It has numerous human settlements along its banks."
+              },
+              {
+                "label": "C",
+                "content": "It is second only to the Mississippi River in width."
+              },
+              {
+                "label": "D",
+                "content": "It is as long as the Nile and the Yangtze combined."
+              }
+            ]
+          },
+          {
+            "order": 12,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Living a life in the fast lane leads to success."
+              },
+              {
+                "label": "B",
+                "content": "We are always in a rush to do various things."
+              },
+              {
+                "label": "C",
+                "content": "The search for tranquility has become a trend."
+              },
+              {
+                "label": "D",
+                "content": "All of us actually yearn for a slow and calm life."
+              }
+            ]
+          },
+          {
+            "order": 13,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "She had trouble balancing family and work."
+              },
+              {
+                "label": "B",
+                "content": "She enjoyed the various social events."
+              },
+              {
+                "label": "C",
+                "content": "She was accustomed to tight schedules."
+              },
+              {
+                "label": "D",
+                "content": "She spent all her leisure time writing books."
+              }
+            ]
+          },
+          {
+            "order": 14,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "The possibility of ruining her family."
+              },
+              {
+                "label": "B",
+                "content": "Becoming aware of her declining health."
+              },
+              {
+                "label": "C",
+                "content": "The fatigue from living a fast-paced life."
+              },
+              {
+                "label": "D",
+                "content": "Reading a book about slowing down."
+              }
+            ]
+          },
+          {
+            "order": 15,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "She started to follow the cultural norms."
+              },
+              {
+                "label": "B",
+                "content": "She came to enjoy doing everyday tasks."
+              },
+              {
+                "label": "C",
+                "content": "She learned to use more polite expressions."
+              },
+              {
+                "label": "D",
+                "content": "She stopped using to-do lists and calendars."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "questions": [
+          {
+            "order": 16,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "They will root out native species altogether."
+              },
+              {
+                "label": "B",
+                "content": "They contribute to a region's biodiversity."
+              },
+              {
+                "label": "C",
+                "content": "They pose a threat to the local ecosystem."
+              },
+              {
+                "label": "D",
+                "content": "They will crossbreed with native species."
+              }
+            ]
+          },
+          {
+            "order": 17,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Their classifications are meaningful."
+              },
+              {
+                "label": "B",
+                "content": "Their interactions are hard to define."
+              },
+              {
+                "label": "C",
+                "content": "Their definitions are changeable."
+              },
+              {
+                "label": "D",
+                "content": "Their distinctions are artificial."
+              }
+            ]
+          },
+          {
+            "order": 18,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Only a few of them cause problems to native species."
+              },
+              {
+                "label": "B",
+                "content": "They may turn out to benefit the local environment."
+              },
+              {
+                "label": "C",
+                "content": "Few of them can survive in their new habitats."
+              },
+              {
+                "label": "D",
+                "content": "Only 10 percent of them can be naturalized."
+              }
+            ]
+          },
+          {
+            "order": 19,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Respect their traditional culture."
+              },
+              {
+                "label": "B",
+                "content": "Attend their business seminars."
+              },
+              {
+                "label": "C",
+                "content": "Research their specific demands."
+              },
+              {
+                "label": "D",
+                "content": "Adopt the right business strategies."
+              }
+            ]
+          },
+          {
+            "order": 20,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Showing them your palm."
+              },
+              {
+                "label": "B",
+                "content": "Giving them gifts of great value."
+              },
+              {
+                "label": "C",
+                "content": "Drinking alcohol on certain days of a month."
+              },
+              {
+                "label": "D",
+                "content": "Clicking your fingers loudly in their presence."
+              }
+            ]
+          },
+          {
+            "order": 21,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "They are very easy to satisfy."
+              },
+              {
+                "label": "B",
+                "content": "They have a strong sense of worth."
+              },
+              {
+                "label": "C",
+                "content": "They tend to be friendly and enthusiastic."
+              },
+              {
+                "label": "D",
+                "content": "They have a break from 2:00 to 5:30 p.m."
+              }
+            ]
+          },
+          {
+            "order": 22,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "He completely changed the company's culture."
+              },
+              {
+                "label": "B",
+                "content": "He collected paintings by world-famous artists."
+              },
+              {
+                "label": "C",
+                "content": "He took over the sales department of Reader's Digest."
+              },
+              {
+                "label": "D",
+                "content": "He had the company's boardroom extensively renovated."
+              }
+            ]
+          },
+          {
+            "order": 23,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "It should be sold at a reasonable price."
+              },
+              {
+                "label": "B",
+                "content": "Its articles should be short and inspiring."
+              },
+              {
+                "label": "C",
+                "content": "It should be published in the world's leading languages."
+              },
+              {
+                "label": "D",
+                "content": "Its articles should entertain blue- and pink-collar workers."
+              }
+            ]
+          },
+          {
+            "order": 24,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "He knew how to make the magazine profitable."
+              },
+              {
+                "label": "B",
+                "content": "He served as a church minister for many years."
+              },
+              {
+                "label": "C",
+                "content": "He suffered many setbacks and misfortunes in his life."
+              },
+              {
+                "label": "D",
+                "content": "He treated the employees like members of his family."
+              }
+            ]
+          },
+          {
+            "order": 25,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "It carried many more advertisements."
+              },
+              {
+                "label": "B",
+                "content": "George Grune joined it as an ad salesman."
+              },
+              {
+                "label": "C",
+                "content": "Several hundred of its employees got fired."
+              },
+              {
+                "label": "D",
+                "content": "Its subscriptions increased considerably."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,600 @@
+[
+  {
+    "level": "CET-4",
+    "year": 2020,
+    "session": 12,
+    "audioUrl": "/audio/cet4-2020-12.mp3",
+    "sections": [
+      {
+        "order": 1,
+        "questions": [
+          {
+            "order": 1,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "A man was pulled to safety after a building collapse."
+              },
+              {
+                "label": "B",
+                "content": "A beam about ten feet long collapsed to the ground."
+              },
+              {
+                "label": "C",
+                "content": "A rescue worker got trapped in the basement."
+              },
+              {
+                "label": "D",
+                "content": "A deserted 100-year-old building caught fire."
+              }
+            ]
+          },
+          {
+            "order": 2,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "He suffered a fatal injury in an accident."
+              },
+              {
+                "label": "B",
+                "content": "He once served in a fire department."
+              },
+              {
+                "label": "C",
+                "content": "He was collecting building materials."
+              },
+              {
+                "label": "D",
+                "content": "He moved into his neighbor's old house."
+              }
+            ]
+          },
+          {
+            "order": 3,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Improve the maths skills of high school teachers."
+              },
+              {
+                "label": "B",
+                "content": "Change British people's negative view of maths."
+              },
+              {
+                "label": "C",
+                "content": "Help British people understand their paychecks."
+              },
+              {
+                "label": "D",
+                "content": "Launch a campaign to promote maths teaching."
+              }
+            ]
+          },
+          {
+            "order": 4,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Children take maths courses at an earlier age."
+              },
+              {
+                "label": "B",
+                "content": "The public sees the value of maths in their life."
+              },
+              {
+                "label": "C",
+                "content": "British people know how to do elementary calculations."
+              },
+              {
+                "label": "D",
+                "content": "Primary school teachers understand basic maths concepts."
+              }
+            ]
+          },
+          {
+            "order": 5,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "He owns a fleet of aircraft."
+              },
+              {
+                "label": "B",
+                "content": "He is learning to be a pilot."
+              },
+              {
+                "label": "C",
+                "content": "He regards his royal duties as a burden."
+              },
+              {
+                "label": "D",
+                "content": "He held a part-time job for over 20 years."
+              }
+            ]
+          },
+          {
+            "order": 6,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "He can demonstrate his superior piloting skills."
+              },
+              {
+                "label": "B",
+                "content": "He can change his focus of attention and relax."
+              },
+              {
+                "label": "C",
+                "content": "He can show his difference from other royalty."
+              },
+              {
+                "label": "D",
+                "content": "He can come into closer contact with his people."
+              }
+            ]
+          },
+          {
+            "order": 7,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "They enjoyed his company."
+              },
+              {
+                "label": "B",
+                "content": "They liked him in his uniform."
+              },
+              {
+                "label": "C",
+                "content": "They rarely recognised him."
+              },
+              {
+                "label": "D",
+                "content": "They were surprised to see him."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "questions": [
+          {
+            "order": 8,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "They were skilled carpenters themselves."
+              },
+              {
+                "label": "B",
+                "content": "It didn't need much capital to start with."
+              },
+              {
+                "label": "C",
+                "content": "Wood supply was plentiful in Romania."
+              },
+              {
+                "label": "D",
+                "content": "They saw a business opportunity there."
+              }
+            ]
+          },
+          {
+            "order": 9,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Provide quality furniture at affordable prices."
+              },
+              {
+                "label": "B",
+                "content": "Attract foreign investment to expand business."
+              },
+              {
+                "label": "C",
+                "content": "Enlarge their company by hiring more workers."
+              },
+              {
+                "label": "D",
+                "content": "Open some more branch companies in Germany."
+              }
+            ]
+          },
+          {
+            "order": 10,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "They are from her hometown."
+              },
+              {
+                "label": "B",
+                "content": "They are imported from Germany."
+              },
+              {
+                "label": "C",
+                "content": "They all come from Romania."
+              },
+              {
+                "label": "D",
+                "content": "They come from all over the continent."
+              }
+            ]
+          },
+          {
+            "order": 11,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "All across Europe."
+              },
+              {
+                "label": "B",
+                "content": "Throughout the world."
+              },
+              {
+                "label": "C",
+                "content": "Mostly in Bucharest."
+              },
+              {
+                "label": "D",
+                "content": "In Romania only."
+              }
+            ]
+          },
+          {
+            "order": 12,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Go to a concert with him and his girlfriend."
+              },
+              {
+                "label": "B",
+                "content": "Try out a new restaurant together in town."
+              },
+              {
+                "label": "C",
+                "content": "Go with him to choose a pearl for Susan."
+              },
+              {
+                "label": "D",
+                "content": "Attend the opening of a local restaurant."
+              }
+            ]
+          },
+          {
+            "order": 13,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "It is sponsored by local restaurants."
+              },
+              {
+                "label": "B",
+                "content": "It specializes in food advertizing."
+              },
+              {
+                "label": "C",
+                "content": "It is especially popular with the young."
+              },
+              {
+                "label": "D",
+                "content": "It provides information on local events."
+              }
+            ]
+          },
+          {
+            "order": 14,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "They design a special set of menus for themselves."
+              },
+              {
+                "label": "B",
+                "content": "They treat themselves to various entertainments."
+              },
+              {
+                "label": "C",
+                "content": "They go to eat at different stylish restaurants."
+              },
+              {
+                "label": "D",
+                "content": "They participate in a variety of social events."
+              }
+            ]
+          },
+          {
+            "order": 15,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "More restaurants will join Restaurant Week."
+              },
+              {
+                "label": "B",
+                "content": "This year's Restaurant Week will start soon."
+              },
+              {
+                "label": "C",
+                "content": "Bigger discounts will be offered this Restaurant Week."
+              },
+              {
+                "label": "D",
+                "content": "More types of food will be served this Restaurant Week."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "questions": [
+          {
+            "order": 16,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Rewarding them for eating vegetables."
+              },
+              {
+                "label": "B",
+                "content": "Exposing them to vegetables repeatedly."
+              },
+              {
+                "label": "C",
+                "content": "Improving the taste of vegetable dishes for them."
+              },
+              {
+                "label": "D",
+                "content": "Explaining the benefits of eating vegetables to them."
+              }
+            ]
+          },
+          {
+            "order": 17,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "They were disliked most by children."
+              },
+              {
+                "label": "B",
+                "content": "They were considered most nutritious."
+              },
+              {
+                "label": "C",
+                "content": "They were least used in Belgian cooking."
+              },
+              {
+                "label": "D",
+                "content": "They were essential to children's health."
+              }
+            ]
+          },
+          {
+            "order": 18,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Vegetables differ in their nutritional value."
+              },
+              {
+                "label": "B",
+                "content": "Children's eating habits can be changed."
+              },
+              {
+                "label": "C",
+                "content": "Parents watch closely what children eat."
+              },
+              {
+                "label": "D",
+                "content": "Children's choices of food vary greatly."
+              }
+            ]
+          },
+          {
+            "order": 19,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Space exploration has serious consequences."
+              },
+              {
+                "label": "B",
+                "content": "India has many space exploration programs."
+              },
+              {
+                "label": "C",
+                "content": "There is quite a lot to learn about the moon."
+              },
+              {
+                "label": "D",
+                "content": "A lot of garbage has been left on the moon."
+              }
+            ]
+          },
+          {
+            "order": 20,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "It is costly to bring back."
+              },
+              {
+                "label": "B",
+                "content": "It is risky to destroy."
+              },
+              {
+                "label": "C",
+                "content": "It is of no use on Earth."
+              },
+              {
+                "label": "D",
+                "content": "It is damaged by radiation."
+              }
+            ]
+          },
+          {
+            "order": 21,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Record details of space exploration."
+              },
+              {
+                "label": "B",
+                "content": "Monitor the change of lunar weather."
+              },
+              {
+                "label": "C",
+                "content": "Study the effect of radiation and vacuum on its materials."
+              },
+              {
+                "label": "D",
+                "content": "Explore the possibility of human settlement on the moon."
+              }
+            ]
+          },
+          {
+            "order": 22,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "It is likely to remain a means of business communication."
+              },
+              {
+                "label": "B",
+                "content": "It is likely to be a competitor of various messaging apps."
+              },
+              {
+                "label": "C",
+                "content": "It will gradually be replaced by social media."
+              },
+              {
+                "label": "D",
+                "content": "It will have to be governed by specific rules."
+              }
+            ]
+          },
+          {
+            "order": 23,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Save the message in their file."
+              },
+              {
+                "label": "B",
+                "content": "Make a timely response."
+              },
+              {
+                "label": "C",
+                "content": "Examine the information carefully."
+              },
+              {
+                "label": "D",
+                "content": "See if any action needs to be taken."
+              }
+            ]
+          },
+          {
+            "order": 24,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "It is to be passed on."
+              },
+              {
+                "label": "B",
+                "content": "It is mostly junk."
+              },
+              {
+                "label": "C",
+                "content": "It requires no reply."
+              },
+              {
+                "label": "D",
+                "content": "It causes no concern."
+              }
+            ]
+          },
+          {
+            "order": 25,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Make it as short as possible."
+              },
+              {
+                "label": "B",
+                "content": "Use simple and clear language."
+              },
+              {
+                "label": "C",
+                "content": "Adopt an informal style of writing."
+              },
+              {
+                "label": "D",
+                "content": "Avoid using capitals for emphasis."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

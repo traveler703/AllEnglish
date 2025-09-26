@@ -1,0 +1,600 @@
+[
+  {
+    "level": "CET-6",
+    "year": 2020,
+    "session": 12,
+    "audioUrl": "/audio/cet6-2020-12.mp3",
+    "sections": [
+      {
+        "order": 1,
+        "questions": [
+          {
+            "order": 1,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Stop worrying about him."
+              },
+              {
+                "label": "B",
+                "content": "Keep away from the statue."
+              },
+              {
+                "label": "C",
+                "content": "Take a picture of him."
+              },
+              {
+                "label": "D",
+                "content": "Pat on a smile for the photo."
+              }
+            ]
+          },
+          {
+            "order": 2,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Gaining great fame on the Internet."
+              },
+              {
+                "label": "B",
+                "content": "Publishing a collection of his photos."
+              },
+              {
+                "label": "C",
+                "content": "Collecting the best photos in the world."
+              },
+              {
+                "label": "D",
+                "content": "Becoming a professional photographer."
+              }
+            ]
+          },
+          {
+            "order": 3,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Surfing various websites and collecting photos."
+              },
+              {
+                "label": "B",
+                "content": "Editing his pictures and posting them online."
+              },
+              {
+                "label": "C",
+                "content": "Following similar accounts to compare notes."
+              },
+              {
+                "label": "D",
+                "content": "Studying the pictures in popular social media."
+              }
+            ]
+          },
+          {
+            "order": 4,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "They are far from satisfactory."
+              },
+              {
+                "label": "B",
+                "content": "They are mostly taken by her mom."
+              },
+              {
+                "label": "C",
+                "content": "They make an impressive album."
+              },
+              {
+                "label": "D",
+                "content": "They record her fond memories."
+              }
+            ]
+          },
+          {
+            "order": 5,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "A journal reporting the latest progress in physics."
+              },
+              {
+                "label": "B",
+                "content": "An introductory course of modern physics."
+              },
+              {
+                "label": "C",
+                "content": "An occasion for physicists to exchange ideas."
+              },
+              {
+                "label": "D",
+                "content": "A series of interviews with outstanding physicists."
+              }
+            ]
+          },
+          {
+            "order": 6,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "The future of the physical world."
+              },
+              {
+                "label": "B",
+                "content": "The origin of the universe."
+              },
+              {
+                "label": "C",
+                "content": "Sources of radiation."
+              },
+              {
+                "label": "D",
+                "content": "Particle theory."
+              }
+            ]
+          },
+          {
+            "order": 7,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "How matter collides with anti-matter."
+              },
+              {
+                "label": "B",
+                "content": "Whether the universe will turn barren."
+              },
+              {
+                "label": "C",
+                "content": "Why there exists anti-matter."
+              },
+              {
+                "label": "D",
+                "content": "Why there is a universe at all."
+              }
+            ]
+          },
+          {
+            "order": 8,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Matter and anti-matter are opposites of each other."
+              },
+              {
+                "label": "B",
+                "content": "Anti-matter allowed humans to come into existence."
+              },
+              {
+                "label": "C",
+                "content": "The universe formed due to a sufficient amount of matter."
+              },
+              {
+                "label": "D",
+                "content": "Anti-matter exists in very high-temperature environments."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "questions": [
+          {
+            "order": 9,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "She found herself speaking a foreign language."
+              },
+              {
+                "label": "B",
+                "content": "She woke up speaking with a different accent."
+              },
+              {
+                "label": "C",
+                "content": "She found some symptoms of her illness gone."
+              },
+              {
+                "label": "D",
+                "content": "She woke up finding herself in another country."
+              }
+            ]
+          },
+          {
+            "order": 10,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "It is usually caused by a stroke or brain injury."
+              },
+              {
+                "label": "B",
+                "content": "It has not yet found any effective treatment."
+              },
+              {
+                "label": "C",
+                "content": "It leaves the patient with a distorted memory."
+              },
+              {
+                "label": "D",
+                "content": "It often happens to people with speech defects."
+              }
+            ]
+          },
+          {
+            "order": 11,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "British."
+              },
+              {
+                "label": "B",
+                "content": "Irish."
+              },
+              {
+                "label": "C",
+                "content": "Russian."
+              },
+              {
+                "label": "D",
+                "content": "Australian."
+              }
+            ]
+          },
+          {
+            "order": 12,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Water sports."
+              },
+              {
+                "label": "B",
+                "content": "Racing in rivers."
+              },
+              {
+                "label": "C",
+                "content": "Stories about women swimmers."
+              },
+              {
+                "label": "D",
+                "content": "Books about swimming."
+              }
+            ]
+          },
+          {
+            "order": 13,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "She succeeded in swimming across the English Channel."
+              },
+              {
+                "label": "B",
+                "content": "She published a guide to London's best swimming spots."
+              },
+              {
+                "label": "C",
+                "content": "She told her story of adventures to some young swimmers."
+              },
+              {
+                "label": "D",
+                "content": "She wrote a book about the history of swimwear in the UK."
+              }
+            ]
+          },
+          {
+            "order": 14,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "They loved vacationing on the seashore."
+              },
+              {
+                "label": "B",
+                "content": "They had a unique notion of modesty."
+              },
+              {
+                "label": "C",
+                "content": "They were prohibited from swimming."
+              },
+              {
+                "label": "D",
+                "content": "They were fully dressed when swimming."
+              }
+            ]
+          },
+          {
+            "order": 15,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "She designed lots of appropriate swimwear for women."
+              },
+              {
+                "label": "B",
+                "content": "She once successfully competed against men in swimming."
+              },
+              {
+                "label": "C",
+                "content": "She was the first woman to swim across the English Channel."
+              },
+              {
+                "label": "D",
+                "content": "She was an advocate of women's right to swim in public pools."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "questions": [
+          {
+            "order": 16,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Build a machine that can detect lies."
+              },
+              {
+                "label": "B",
+                "content": "Develop a magnetic brain scanner."
+              },
+              {
+                "label": "C",
+                "content": "Test the credibility of court evidence."
+              },
+              {
+                "label": "D",
+                "content": "Win people's complete trust in them."
+              }
+            ]
+          },
+          {
+            "order": 17,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "They are optimistic about its potential."
+              },
+              {
+                "label": "B",
+                "content": "They are sceptical of its reliability."
+              },
+              {
+                "label": "C",
+                "content": "They think it is but business promotion."
+              },
+              {
+                "label": "D",
+                "content": "They celebrate it with great enthusiasm."
+              }
+            ]
+          },
+          {
+            "order": 18,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "It is not to be trusted at all."
+              },
+              {
+                "label": "B",
+                "content": "It does not sound economical."
+              },
+              {
+                "label": "C",
+                "content": "It may intrude into people's privacy."
+              },
+              {
+                "label": "D",
+                "content": "It may lead to overuse in court trials."
+              }
+            ]
+          },
+          {
+            "order": 19,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Most of its residents speak several languages."
+              },
+              {
+                "label": "B",
+                "content": "Some of its indigenous languages are dying out."
+              },
+              {
+                "label": "C",
+                "content": "Each village there speaks a totally different language."
+              },
+              {
+                "label": "D",
+                "content": "Its languages have interested researchers the world over."
+              }
+            ]
+          },
+          {
+            "order": 20,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "They are spread randomly across the world."
+              },
+              {
+                "label": "B",
+                "content": "Some are more difficult to learn than others."
+              },
+              {
+                "label": "C",
+                "content": "More are found in tropical regions than in the mild zones."
+              },
+              {
+                "label": "D",
+                "content": "They enrich and impact each other in more ways than one."
+              }
+            ]
+          },
+          {
+            "order": 21,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "They used different methods to collect and analyze data."
+              },
+              {
+                "label": "B",
+                "content": "They identified distinct patterns of language distribution."
+              },
+              {
+                "label": "C",
+                "content": "Their conclusions do not correspond to their original hypotheses."
+              },
+              {
+                "label": "D",
+                "content": "There is no conclusive account for the cause of language diversity."
+              }
+            ]
+          },
+          {
+            "order": 22,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Its middle-class is disappearing."
+              },
+              {
+                "label": "B",
+                "content": "Its wealth is rationally distributed."
+              },
+              {
+                "label": "C",
+                "content": "Its population is rapidly growing."
+              },
+              {
+                "label": "D",
+                "content": "Its cherished dream is coming true."
+              }
+            ]
+          },
+          {
+            "order": 23,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Success was but a dream without conscientious effort."
+              },
+              {
+                "label": "B",
+                "content": "They could realize their dreams through hard work."
+              },
+              {
+                "label": "C",
+                "content": "A few dollars could go a long way."
+              },
+              {
+                "label": "D",
+                "content": "Wealth was shared by all citizens."
+              }
+            ]
+          },
+          {
+            "order": 24,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Better working conditions."
+              },
+              {
+                "label": "B",
+                "content": "Better-paying jobs."
+              },
+              {
+                "label": "C",
+                "content": "High social status."
+              },
+              {
+                "label": "D",
+                "content": "Full employment."
+              }
+            ]
+          },
+          {
+            "order": 25,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Reduce the administrative costs."
+              },
+              {
+                "label": "B",
+                "content": "Adopt effective business models."
+              },
+              {
+                "label": "C",
+                "content": "Hire part-time employees only."
+              },
+              {
+                "label": "D",
+                "content": "Make use of the latest technology."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,600 @@
+[
+  {
+    "level": "CET-6",
+    "year": 2019,
+    "session": 12,
+    "audioUrl": "/audio/cet6-2019-12.mp3",
+    "sections": [
+      {
+        "order": 1,
+        "questions": [
+          {
+            "order": 1,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "It focuses exclusively on jazz."
+              },
+              {
+                "label": "B",
+                "content": "It sponsors major jazz concerts."
+              },
+              {
+                "label": "C",
+                "content": "It has several branches in London."
+              },
+              {
+                "label": "D",
+                "content": "It displays albums by new music talents."
+              }
+            ]
+          },
+          {
+            "order": 2,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "It originated with cowboys."
+              },
+              {
+                "label": "B",
+                "content": "Its market has now shrunk."
+              },
+              {
+                "label": "C",
+                "content": "Its listeners are mostly young people."
+              },
+              {
+                "label": "D",
+                "content": "It remains as widespread as hip-hop music."
+              }
+            ]
+          },
+          {
+            "order": 3,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Its definition is varied and complicated."
+              },
+              {
+                "label": "B",
+                "content": "It is still going through experimentation."
+              },
+              {
+                "label": "C",
+                "content": "It is frequently accompanied by singing."
+              },
+              {
+                "label": "D",
+                "content": "Its style has remained largely unchanged."
+              }
+            ]
+          },
+          {
+            "order": 4,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Learn to play them."
+              },
+              {
+                "label": "B",
+                "content": "Take music lessons."
+              },
+              {
+                "label": "C",
+                "content": "Listen to them yourself."
+              },
+              {
+                "label": "D",
+                "content": "Consult jazz musicians."
+              }
+            ]
+          },
+          {
+            "order": 5,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "She paid her mortgage."
+              },
+              {
+                "label": "B",
+                "content": "She called on the man."
+              },
+              {
+                "label": "C",
+                "content": "She made a business plan."
+              },
+              {
+                "label": "D",
+                "content": "She went to the bank."
+              }
+            ]
+          },
+          {
+            "order": 6,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Her previous debt hadn't been cleared yet."
+              },
+              {
+                "label": "B",
+                "content": "Her credit history was considered poor."
+              },
+              {
+                "label": "C",
+                "content": "She had apparently asked for too much."
+              },
+              {
+                "label": "D",
+                "content": "She didn't pay her mortgage in time."
+              }
+            ]
+          },
+          {
+            "order": 7,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Pay a debt long overdue."
+              },
+              {
+                "label": "B",
+                "content": "Buy a piece of property."
+              },
+              {
+                "label": "C",
+                "content": "Start her own business."
+              },
+              {
+                "label": "D",
+                "content": "Check her credit history."
+              }
+            ]
+          },
+          {
+            "order": 8,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Seek advice from an expert about fundraising."
+              },
+              {
+                "label": "B",
+                "content": "Ask for smaller loans from different lenders."
+              },
+              {
+                "label": "C",
+                "content": "Build up her own finances step by step."
+              },
+              {
+                "label": "D",
+                "content": "Revise her business proposal carefully."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "questions": [
+          {
+            "order": 9,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "It is profitable and environmentally friendly."
+              },
+              {
+                "label": "B",
+                "content": "It is well located and completely automated."
+              },
+              {
+                "label": "C",
+                "content": "It is small and unconventional."
+              },
+              {
+                "label": "D",
+                "content": "It is fertile and productive."
+              }
+            ]
+          },
+          {
+            "order": 10,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Their urge to make farming more enjoyable."
+              },
+              {
+                "label": "B",
+                "content": "Their desire to improve farming equipment."
+              },
+              {
+                "label": "C",
+                "content": "Their hope to revitalize traditional farming."
+              },
+              {
+                "label": "D",
+                "content": "Their wish to set a new farming standard."
+              }
+            ]
+          },
+          {
+            "order": 11,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "It saves a lot of electricity."
+              },
+              {
+                "label": "B",
+                "content": "It needs little maintenance."
+              },
+              {
+                "label": "C",
+                "content": "It causes hardly any pollution."
+              },
+              {
+                "label": "D",
+                "content": "It loosens soil while weeding."
+              }
+            ]
+          },
+          {
+            "order": 12,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "It has turned certain insects into a new food source."
+              },
+              {
+                "label": "B",
+                "content": "It has started to expand business outside the UK."
+              },
+              {
+                "label": "C",
+                "content": "It has imported some exotic foods from overseas."
+              },
+              {
+                "label": "D",
+                "content": "It has joined hands with Sainsbury's to sell pet insects."
+              }
+            ]
+          },
+          {
+            "order": 13,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "It was really unforgettable."
+              },
+              {
+                "label": "B",
+                "content": "It was a pleasant surprise."
+              },
+              {
+                "label": "C",
+                "content": "It hurt his throat slightly."
+              },
+              {
+                "label": "D",
+                "content": "It made him feel strange."
+              }
+            ]
+          },
+          {
+            "order": 14,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "They are more tasty than beef, chicken or pork."
+              },
+              {
+                "label": "B",
+                "content": "They are more nutritious than soups and salads."
+              },
+              {
+                "label": "C",
+                "content": "They contain more protein than conventional meats."
+              },
+              {
+                "label": "D",
+                "content": "They will soon gain popularity throughout the world."
+              }
+            ]
+          },
+          {
+            "order": 15,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "It is environmentally friendly."
+              },
+              {
+                "label": "B",
+                "content": "It is a promising industry."
+              },
+              {
+                "label": "C",
+                "content": "It requires new technology."
+              },
+              {
+                "label": "D",
+                "content": "It saves huge amounts of labour."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "questions": [
+          {
+            "order": 16,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "To categorize different types of learners."
+              },
+              {
+                "label": "B",
+                "content": "To find out what students prefer to learn."
+              },
+              {
+                "label": "C",
+                "content": "To understand the mechanism of the human brain."
+              },
+              {
+                "label": "D",
+                "content": "To see if they are inherent traits affecting learning."
+              }
+            ]
+          },
+          {
+            "order": 17,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "It was defective."
+              },
+              {
+                "label": "B",
+                "content": "It was misguided."
+              },
+              {
+                "label": "C",
+                "content": "It was original in design."
+              },
+              {
+                "label": "D",
+                "content": "It was thought-provoking."
+              }
+            ]
+          },
+          {
+            "order": 18,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Auditory aids are as important as visual aids."
+              },
+              {
+                "label": "B",
+                "content": "Visual aids are helpful to all types of learners."
+              },
+              {
+                "label": "C",
+                "content": "Reading plain texts is more effective than viewing pictures."
+              },
+              {
+                "label": "D",
+                "content": "Scientific concepts are hard to understand without visual aids."
+              }
+            ]
+          },
+          {
+            "order": 19,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Not playing a role in a workplace revolution."
+              },
+              {
+                "label": "B",
+                "content": "Not benefiting from free-market capitalism."
+              },
+              {
+                "label": "C",
+                "content": "Not earning enough money to provide for the family."
+              },
+              {
+                "label": "D",
+                "content": "Not spending enough time on family life and leisure."
+              }
+            ]
+          },
+          {
+            "order": 20,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "People would be working only fifteen hours a week now."
+              },
+              {
+                "label": "B",
+                "content": "The balance of power in the workplace would change."
+              },
+              {
+                "label": "C",
+                "content": "Technological advances would create many new jobs."
+              },
+              {
+                "label": "D",
+                "content": "Most workers could afford to have a house of their own."
+              }
+            ]
+          },
+          {
+            "order": 21,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Loss of workers' personal dignity."
+              },
+              {
+                "label": "B",
+                "content": "Deprivation of workers' creativity."
+              },
+              {
+                "label": "C",
+                "content": "Deterioration of workers' mental health."
+              },
+              {
+                "label": "D",
+                "content": "Unequal distribution of working hours."
+              }
+            ]
+          },
+          {
+            "order": 22,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "It is the worst managed airport in German history."
+              },
+              {
+                "label": "B",
+                "content": "It is now the biggest and busiest airport in Europe."
+              },
+              {
+                "label": "C",
+                "content": "It has become something of a joke among Germans."
+              },
+              {
+                "label": "D",
+                "content": "It has become a typical symbol of German efficiency."
+              }
+            ]
+          },
+          {
+            "order": 23,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "The city's airports are outdated."
+              },
+              {
+                "label": "B",
+                "content": "The city had just been reunified."
+              },
+              {
+                "label": "C",
+                "content": "The city wanted to boost its economy."
+              },
+              {
+                "label": "D",
+                "content": "The city wanted to attract more tourists."
+              }
+            ]
+          },
+          {
+            "order": 24,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "The municipal government kept changing plans."
+              },
+              {
+                "label": "B",
+                "content": "The construction firm breached the contract."
+              },
+              {
+                "label": "C",
+                "content": "Shortage of funding delayed its construction."
+              },
+              {
+                "label": "D",
+                "content": "Problems of different kinds kept popping up."
+              }
+            ]
+          },
+          {
+            "order": 25,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "Tourism industry in Berlin suffers."
+              },
+              {
+                "label": "B",
+                "content": "All kinds of equipment get rusted."
+              },
+              {
+                "label": "C",
+                "content": "Huge maintenance costs accumulate."
+              },
+              {
+                "label": "D",
+                "content": "Complaints by local residents increase."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

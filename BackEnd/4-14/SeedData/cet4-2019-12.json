@@ -1,0 +1,600 @@
+[
+  {
+    "level": "CET-4",
+    "year": 2019,
+    "session": 12,
+    "audioUrl": "/audio/cet4-2019-12.mp3",
+    "sections": [
+      {
+        "order": 1,
+        "questions": [
+          {
+            "order": 1,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "The number of male nurses has gone down."
+              },
+              {
+                "label": "B",
+                "content": "There is discrimination against male nurses."
+              },
+              {
+                "label": "C",
+                "content": "There is a growing shortage of medical personnel."
+              },
+              {
+                "label": "D",
+                "content": "The number of nurses has dropped to a record low."
+              }
+            ]
+          },
+          {
+            "order": 2,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Working conditions."
+              },
+              {
+                "label": "B",
+                "content": "Educational system."
+              },
+              {
+                "label": "C",
+                "content": "Inadequate pay."
+              },
+              {
+                "label": "D",
+                "content": "Cultural bias."
+              }
+            ]
+          },
+          {
+            "order": 3,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "He fell out of a lifeboat."
+              },
+              {
+                "label": "B",
+                "content": "He was almost drowned."
+              },
+              {
+                "label": "C",
+                "content": "He lost his way on a beach."
+              },
+              {
+                "label": "D",
+                "content": "He enjoyed swimming in the sea."
+              }
+            ]
+          },
+          {
+            "order": 4,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "The lifeboats patrol the area round the clock."
+              },
+              {
+                "label": "B",
+                "content": "The beach is a good place to watch the tide."
+              },
+              {
+                "label": "C",
+                "content": "The emergency services are efficient."
+              },
+              {
+                "label": "D",
+                "content": "The beach is a popular tourist resort."
+              }
+            ]
+          },
+          {
+            "order": 5,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "It climbed 25 storeys at one go."
+              },
+              {
+                "label": "B",
+                "content": "It broke into an office room."
+              },
+              {
+                "label": "C",
+                "content": "It escaped from a local zoo."
+              },
+              {
+                "label": "D",
+                "content": "It became an online star."
+              }
+            ]
+          },
+          {
+            "order": 6,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Release it into the wild."
+              },
+              {
+                "label": "B",
+                "content": "Return it to its owner."
+              },
+              {
+                "label": "C",
+                "content": "Send it back to the zoo."
+              },
+              {
+                "label": "D",
+                "content": "Give it a physical checkup."
+              }
+            ]
+          },
+          {
+            "order": 7,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "A racoon can perform acts no human can."
+              },
+              {
+                "label": "B",
+                "content": "A racoon can climb much higher than a cat."
+              },
+              {
+                "label": "C",
+                "content": "The racoon did something no politician could."
+              },
+              {
+                "label": "D",
+                "content": "The raccoon became as famous as some politicians."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "questions": [
+          {
+            "order": 8,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "She received a bonus unexpectedly."
+              },
+              {
+                "label": "B",
+                "content": "She got a well-paying job in a bank."
+              },
+              {
+                "label": "C",
+                "content": "She received her first monthly salary."
+              },
+              {
+                "label": "D",
+                "content": "She got a pay raise for her performance."
+              }
+            ]
+          },
+          {
+            "order": 9,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Two decades ago."
+              },
+              {
+                "label": "B",
+                "content": "Several years ago."
+              },
+              {
+                "label": "C",
+                "content": "Just last month."
+              },
+              {
+                "label": "D",
+                "content": "Right after graduation."
+              }
+            ]
+          },
+          {
+            "order": 10,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "He sent a small check to his parents."
+              },
+              {
+                "label": "B",
+                "content": "He treated his parents to a nice meal."
+              },
+              {
+                "label": "C",
+                "content": "He took a few of his friends to a gym."
+              },
+              {
+                "label": "D",
+                "content": "He immediately deposited it in a bank."
+              }
+            ]
+          },
+          {
+            "order": 11,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Join her colleagues for gym exercise."
+              },
+              {
+                "label": "B",
+                "content": "Visit her former university campus."
+              },
+              {
+                "label": "C",
+                "content": "Buy some professional clothes."
+              },
+              {
+                "label": "D",
+                "content": "Budget her salary carefully."
+              }
+            ]
+          },
+          {
+            "order": 12,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "He has just too many things to attend to."
+              },
+              {
+                "label": "B",
+                "content": "He has been overworked recently."
+              },
+              {
+                "label": "C",
+                "content": "He has a difficult decision to make."
+              },
+              {
+                "label": "D",
+                "content": "He has just quarreled with his girlfriend."
+              }
+            ]
+          },
+          {
+            "order": 13,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Turn to his girlfriend for assistance."
+              },
+              {
+                "label": "B",
+                "content": "Give priority to things more urgent."
+              },
+              {
+                "label": "C",
+                "content": "Think twice before making the decision."
+              },
+              {
+                "label": "D",
+                "content": "Seek advice from his family and advisor."
+              }
+            ]
+          },
+          {
+            "order": 14,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "His girlfriend does not support his decision."
+              },
+              {
+                "label": "B",
+                "content": "He is not particularly keen on the job offered."
+              },
+              {
+                "label": "C",
+                "content": "He lacks the money for his doctoral program."
+              },
+              {
+                "label": "D",
+                "content": "His parents and advisor have different opinions."
+              }
+            ]
+          },
+          {
+            "order": 15,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "They need time to make preparations."
+              },
+              {
+                "label": "B",
+                "content": "They haven't started their careers yet."
+              },
+              {
+                "label": "C",
+                "content": "They need to save enough money for it."
+              },
+              {
+                "label": "D",
+                "content": "They haven't won their parents' approval."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "questions": [
+          {
+            "order": 16,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "Expressing ideas and opinions freely."
+              },
+              {
+                "label": "B",
+                "content": "Enriching social and intellectual lives."
+              },
+              {
+                "label": "C",
+                "content": "Acquiring information and professional knowledge."
+              },
+              {
+                "label": "D",
+                "content": "Using information to understand and solve problems."
+              }
+            ]
+          },
+          {
+            "order": 17,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Traveling to different places in the world."
+              },
+              {
+                "label": "B",
+                "content": "Playing games that challenge one's mind."
+              },
+              {
+                "label": "C",
+                "content": "Improving mind-reading strategies."
+              },
+              {
+                "label": "D",
+                "content": "Reading classic scientific literature."
+              }
+            ]
+          },
+          {
+            "order": 18,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Participate in debates or discussions."
+              },
+              {
+                "label": "B",
+                "content": "Expose themselves to different cultures."
+              },
+              {
+                "label": "C",
+                "content": "Discard personal biases and prejudices."
+              },
+              {
+                "label": "D",
+                "content": "Give others freedom to express themselves."
+              }
+            ]
+          },
+          {
+            "order": 19,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Why dogs can be faithful friends of humans."
+              },
+              {
+                "label": "B",
+                "content": "The nature of relationships between dogs."
+              },
+              {
+                "label": "C",
+                "content": "The reason a great many people love dogs."
+              },
+              {
+                "label": "D",
+                "content": "How dogs feel about their bonds with humans."
+              }
+            ]
+          },
+          {
+            "order": 20,
+            "stem": "",
+            "correctOption": "D",
+            "options": [
+              {
+                "label": "A",
+                "content": "They behave like other animals in many ways."
+              },
+              {
+                "label": "B",
+                "content": "They have an unusual sense of responsibility."
+              },
+              {
+                "label": "C",
+                "content": "They can respond to humans' questions."
+              },
+              {
+                "label": "D",
+                "content": "They can fall in love just like humans."
+              }
+            ]
+          },
+          {
+            "order": 21,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "They stay with one partner for life."
+              },
+              {
+                "label": "B",
+                "content": "They have their own joys and sorrows."
+              },
+              {
+                "label": "C",
+                "content": "They experience true romantic love."
+              },
+              {
+                "label": "D",
+                "content": "They help humans in various ways."
+              }
+            ]
+          },
+          {
+            "order": 22,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "A rare animal."
+              },
+              {
+                "label": "B",
+                "content": "A historical site."
+              },
+              {
+                "label": "C",
+                "content": "A cow bone."
+              },
+              {
+                "label": "D",
+                "content": "A precious stone."
+              }
+            ]
+          },
+          {
+            "order": 23,
+            "stem": "",
+            "correctOption": "B",
+            "options": [
+              {
+                "label": "A",
+                "content": "Dating it."
+              },
+              {
+                "label": "B",
+                "content": "Preserving it."
+              },
+              {
+                "label": "C",
+                "content": "Measuring it."
+              },
+              {
+                "label": "D",
+                "content": "Identifying it."
+              }
+            ]
+          },
+          {
+            "order": 24,
+            "stem": "",
+            "correctOption": "C",
+            "options": [
+              {
+                "label": "A",
+                "content": "The channel needs to interview the boy."
+              },
+              {
+                "label": "B",
+                "content": "The boy should have called an expert."
+              },
+              {
+                "label": "C",
+                "content": "The boy's family had acted correctly."
+              },
+              {
+                "label": "D",
+                "content": "The site should have been protected."
+              }
+            ]
+          },
+          {
+            "order": 25,
+            "stem": "",
+            "correctOption": "A",
+            "options": [
+              {
+                "label": "A",
+                "content": "Conduct a more detailed search."
+              },
+              {
+                "label": "B",
+                "content": "Ask the university to reward Jude."
+              },
+              {
+                "label": "C",
+                "content": "Search for similar fossils elsewhere."
+              },
+              {
+                "label": "D",
+                "content": "Seek additional funds for the search."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

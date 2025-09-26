@@ -1,0 +1,208 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "type": "word",
+      "title": "词汇学习 I",
+      "description": "学习20个基础单词",
+      "target": 20,
+      "route": "/word_learning",
+      "difficulty": "easy",
+      "icon": "📚",
+      "unlocked": true,
+      "completed": false
+    },
+    {
+      "id": 2,
+      "type": "reading",
+      "title": "阅读理解 I",
+      "description": "完成1篇阅读文章",
+      "target": 1,
+      "route": "/read_learning",
+      "difficulty": "easy",
+      "icon": "📖",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "id": 3,
+      "type": "listening",
+      "title": "听力训练 I",
+      "description": "完成15分钟听力练习",
+      "target": 15,
+      "route": "/listening_practice",
+      "difficulty": "easy",
+      "icon": "🎧",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "id": 4,
+      "type": "speaking",
+      "title": "口语练习 I",
+      "description": "完成10分钟口语练习",
+      "target": 10,
+      "route": "/oral_practice",
+      "difficulty": "easy",
+      "icon": "🗣️",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "id": 5,
+      "type": "word",
+      "title": "词汇学习 II",
+      "description": "学习30个中级单词",
+      "target": 30,
+      "route": "/word_learning",
+      "difficulty": "medium",
+      "icon": "📚",
+      "unlocked": false,
+      "completed": false,
+      "hasChest": true
+    },
+    {
+      "id": 6,
+      "type": "reading",
+      "title": "阅读理解 II",
+      "description": "完成2篇阅读文章",
+      "target": 2,
+      "route": "/read_learning",
+      "difficulty": "medium",
+      "icon": "📖",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "id": 7,
+      "type": "listening",
+      "title": "听力训练 II",
+      "description": "完成20分钟听力练习",
+      "target": 20,
+      "route": "/listening_practice",
+      "difficulty": "medium",
+      "icon": "🎧",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "id": 8,
+      "type": "speaking",
+      "title": "口语练习 II",
+      "description": "完成15分钟口语练习",
+      "target": 15,
+      "route": "/oral_practice",
+      "difficulty": "medium",
+      "icon": "🗣️",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "id": 9,
+      "type": "word",
+      "title": "词汇挑战 I",
+      "description": "学习40个高级单词",
+      "target": 40,
+      "route": "/word_learning",
+      "difficulty": "hard",
+      "icon": "📚",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "id": 10,
+      "type": "reading",
+      "title": "阅读挑战 I",
+      "description": "完成3篇长文章阅读",
+      "target": 3,
+      "route": "/read_learning",
+      "difficulty": "hard",
+      "icon": "📖",
+      "unlocked": false,
+      "completed": false,
+      "hasChest": true
+    },
+    {
+      "id": 11,
+      "type": "listening",
+      "title": "听力挑战 I",
+      "description": "完成30分钟高难度听力",
+      "target": 30,
+      "route": "/listening_practice",
+      "difficulty": "hard",
+      "icon": "🎧",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "id": 12,
+      "type": "speaking",
+      "title": "口语挑战 I",
+      "description": "完成25分钟口语测试",
+      "target": 25,
+      "route": "/oral_practice",
+      "difficulty": "hard",
+      "icon": "🗣️",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "id": 13,
+      "type": "word",
+      "title": "终极词汇",
+      "description": "掌握50个专业词汇",
+      "target": 50,
+      "route": "/word_learning",
+      "difficulty": "expert",
+      "icon": "📚",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "id": 14,
+      "type": "reading",
+      "title": "终极阅读",
+      "description": "完成5篇专业文献阅读",
+      "target": 5,
+      "route": "/read_learning",
+      "difficulty": "expert",
+      "icon": "📖",
+      "unlocked": false,
+      "completed": false
+    },
+    {
+      "id": 15,
+      "type": "comprehensive",
+      "title": "综合测试",
+      "description": "通过综合能力测试",
+      "target": 1,
+      "route": "/comprehensive_test",
+      "difficulty": "expert",
+      "icon": "🏆",
+      "unlocked": false,
+      "completed": false,
+      "hasChest": true,
+      "isFinal": true
+    }
+  ],
+  "chests": [
+    {
+      "id": 1,
+      "afterLevel": 5,
+      "rewards": ["经验值 +100", "称号：初级学者", "学习币 +50"],
+      "opened": false
+    },
+    {
+      "id": 2,
+      "afterLevel": 10,
+      "rewards": ["经验值 +200", "称号：进阶学者", "学习币 +100", "特殊道具：学习加速卡"],
+      "opened": false
+    },
+    {
+      "id": 3,
+      "afterLevel": 15,
+      "rewards": ["经验值 +500", "称号：英语大师", "学习币 +250", "特殊道具：完美通关证书"],
+      "opened": false
+    }
+  ]
+}

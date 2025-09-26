@@ -1,0 +1,137 @@
+{
+  "articles": [
+    {
+      "title": "气候变化的全球影响",
+      "content": "气候变化是当今世界面临的最严峻挑战之一。全球气温上升导致冰川融化、极端天气频发，对生物多样性构成威胁。世界各国科学家正在努力寻找解决方案来减缓这些影响。",
+      "articleType": "新闻",
+      "difficultyLevel": "高级",
+      "courseLevel": "进阶",
+      "coverImage": "https://example.com/climate.jpg",
+      "estimatedTime": 20,
+      "wordCount": 650,
+      "tags": [ "环境", "科学", "全球" ],
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "title": "数字化革命的时代",
+      "content": "数字化革命改变了我们的生活、工作和交流方式。从智能手机到人工智能，技术继续以惊人的速度发展。理解这些变化对在现代世界中取得成功至关重要。",
+      "articleType": "科技",
+      "difficultyLevel": "中级",
+      "courseLevel": "进阶",
+      "coverImage": "https://example.com/digital.jpg",
+      "estimatedTime": 18,
+      "wordCount": 580,
+      "tags": [ "技术", "创新", "未来" ],
+      "createdAt": "2024-01-16T14:30:00Z"
+    },
+    {
+      "title": "《Oliver Twist》",
+      "content": "Mr Sowerberry read the sign on the workhouse wall. He called on Mr Bumble “The boy could learn my trade,” said the tall thin, large-jointed man.  He wore a very old black suit, with black socks and cheap black shoes. “I make coffins.”“I know your work, Mr Sowerby,” said Mr Bumble. He leaned forward and gave the undertaker a friendly tap with his stick. “You must make a fortune!”““Payments from the parish are very small, Mr. Bumble.”“So are the coffins,” replied Mr Bumble.Mr Sowerberry laughed loudly. Then they talked business.They agreed the price for Oliver to become a ‘parish apprentice’.",
+      "articleType": "故事",
+      "difficultyLevel": "中级",
+      "courseLevel": "进阶",
+      "coverImage": "https://example.com/oliver-twist.jpg",
+      "estimatedTime": 30,
+      "wordCount": 500,
+      "tags": [ "文学", "经典", "故事" ],
+      "createdAt": "2024-07-16T10:00:00Z"
+    },
+    {
+      "title": "De-extinction",
+      "content": "It may only be a matter of time before dinosaurs are back among us. Biotechnology and genetic engineering company Colossal Biosciences claims it is on the cusp of successfully bringing back extinct species. On Tuesday, the company announced its plan to resurrect the moa – a 3.6-metre-tall, flightless bird. The giant moa once roamed New Zealand's South Island. It was hunted to extinction 600 years ago. Colossal's chief scientist Beth Shapiro said:“We're bringing back avian dinosaurs.” Her colleagues will try to recreate the extinct bird by extracting DNA from the bones of long-deceased moa. Scientists will use this DNA to modify the genome of an emu, which is the closest living relative of the moa.",
+      "articleType": "科技",
+      "difficultyLevel": "高级",
+      "courseLevel": "进阶",
+      "coverImage": "https://example.com/dinosaur.jpg",
+      "estimatedTime": 20,
+      "wordCount": 600,
+      "tags": [ "科技", "创新", "未来" ],
+      "createdAt": "2024-07-17T14:00:00Z"
+    },
+    {
+      "title": "Visas ",
+      "content": "China has made a big change to its visa system. More people can now visit the country without a visa. Citizens of 74 countries now have visa-free access to enter for up to 30 days.In addition, citizens from 54 countries can stay in-transit for 240 hours, but they must have a ticket to a third country. China's government is slowly expanding its visa-free entry process, so it can grow its tourism industry and its economy. It started allowing visitors from more countries in 2023.Almost every European country and many nations from South America, Asia, and the Middle East have been added since then. More than 20 million foreign visitors entered China without a visa in 2024. ",
+      "articleType": "新闻",
+      "difficultyLevel": "中级",
+      "courseLevel": "进阶",
+      "coverImage": "https://breakingnewsenglish.com/images/breaking-news-english-logo.png",
+      "estimatedTime": 15,
+      "wordCount": 480,
+      "tags": [ "旅游", "政策", "中国" ],
+      "createdAt": "2024-05-10T09:00:00Z"
+    },
+    {
+      "title": "Treasure Island-The Old Sea-dog at the Admiral Benbow ",
+      "content": "Squire Trelawney and Doctor Livesey have asked me to write down about Treasure Island, from the beginning to the end. My name is Jim Hawkins and my story starts in the year 1757，when I was thirteen years old.At that time, my family lived in a remote cove on the Cornish coast. My father was the innkeeper of the “Admiral Benbow”.Few people visited but one morning an old seaman arrived…I remember him as if it were yesterday.He came plodding to the inn door, his sea-chest following behind him in a handbarrow. He was a tall, strong, heavy, nut-brown man, with a pigtail falling over the shoulder of his soiled blue coat. His hands were rough, with black, broken nails. Across one cheek was a thick white scar.",
+      "articleType": "故事",
+      "difficultyLevel": "高级",
+      "courseLevel": "高阶",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Treasure_Island_map.svg/800px-Treasure_Island_map.svg.png",
+      "estimatedTime": 25,
+      "wordCount": 780,
+      "tags": [ "小说", "冒险", "经典" ],
+      "createdAt": "2024-05-12T12:30:00Z"
+    },
+    {
+      "title": "The Invisible Man",
+      "content": "In the cool blue of twilight, the confectioner’s on the corner of two steep streets in Camden Town glowed like the butt of a cigar, or, perhaps, a firework, as the light danced on the cakes, chocolates and sweetmeats.Boys stood with their noses pressed to the glass. Behind them, a tall, burly, red-haired young man twenty-four, was also staring at the window display. He had a resolute face but a listless manner and carried under his arm a portfolio of black-and- white sketches. His name was John Turnbull Angus.Entering at last, he walked through the confectioner’s shop to a sort of pastry-cook restaurant merely at the back. An elegant young lady was serving there, an alert girl dressed in black, with very quick, dark eyes.",
+      "articleType": "故事",
+      "difficultyLevel": "高级",
+      "courseLevel": "进阶",
+      "coverImage": "https://i1.sndcdn.com/artworks-000489324715-2m9r0e-t500x500.jpg",
+      "estimatedTime": 20,
+      "wordCount": 600,
+      "tags": [ "文学", "推理", "经典" ],
+      "createdAt": "2024-06-01T17:00:00Z"
+    },
+    {
+      "title": "量子计算的未来：从理论到实践",
+      "content": "Quantum computing is one of the most exciting and complex areas of modern science. Unlike classical computing, which relies on bits as the smallest unit of data, quantum computing uses qubits that can exist in multiple states simultaneously, thanks to the principle of superposition. This allows quantum computers to process vast amounts of data in parallel, making them potentially much more powerful than classical computers in solving complex problems like simulating molecules for drug discovery, cryptography, and optimization. While practical quantum computers are still in their infancy, major tech companies like IBM, Google, and Microsoft are investing heavily in this field. The next few decades could see quantum computing revolutionize industries and solve problems once thought impossible.",
+      "articleType": "科技",
+      "difficultyLevel": "进阶",
+      "courseLevel": "进阶",
+      "coverImage": "https://example.com/quantum-computing.jpg",
+      "estimatedTime": 30,
+      "wordCount": 850,
+      "tags": [ "科技", "量子计算", "未来" ],
+      "createdAt": "2024-06-05T11:00:00Z"
+    },
+    {
+      "title": "如何培养良好的学习习惯",
+      "content": "Developing good study habits is essential for academic success. It begins with creating a structured routine and sticking to it. Start by setting specific goals for each study session. Break down large tasks into smaller, more manageable ones. Make sure to organize your study space to minimize distractions. A quiet, comfortable environment will help you focus. Additionally, taking regular breaks can improve concentration and help you avoid burnout. One effective technique is the Pomodoro method, where you study for 25 minutes and then take a 5-minute break. It's important to also review and revise regularly to retain the material. Finally, staying motivated and maintaining a positive attitude towards learning can help you stay on track and achieve your academic goals.",
+      "articleType": "说明文",
+      "difficultyLevel": "基础",
+      "courseLevel": "初级",
+      "coverImage": "https://example.com/study-habits.jpg",
+      "estimatedTime": 15,
+      "wordCount": 600,
+      "tags": [ "学习", "习惯", "技巧" ],
+      "createdAt": "2024-06-10T09:00:00Z"
+    },
+    {
+      "title": "全球经济复苏的挑战和机遇",
+      "content": "As the world begins to recover from the COVID-19 pandemic, global economies are facing numerous challenges. The pandemic led to unprecedented economic contractions, causing mass unemployment, business closures, and a significant decline in consumer spending. However, governments worldwide have implemented massive fiscal stimulus packages to counteract the economic downturn. These efforts, combined with rapid vaccination campaigns, are helping economies to slowly recover. Yet, many challenges remain, such as inflation, supply chain disruptions, and increasing debt levels. Despite these obstacles, experts are optimistic that with the right policies, global economies can bounce back stronger than before.",
+      "articleType": "新闻",
+      "difficultyLevel": "高级",
+      "courseLevel": "进阶",
+      "coverImage": "https://example.com/economic-recovery.jpg",
+      "estimatedTime": 20,
+      "wordCount": 750,
+      "tags": [ "经济", "复苏", "全球" ],
+      "createdAt": "2024-06-15T08:00:00Z"
+    },
+    {
+      "title": "气候变化：全球行动的紧迫性",
+      "content": "As the effects of climate change become increasingly evident across the globe, scientists, policymakers, and citizens are calling for urgent action. Rising sea levels, severe droughts, and extreme weather events are just some of the visible consequences of a warming planet. In recent years, the international community has made some progress with agreements such as the Paris Climate Accord, which aims to limit global warming to well below 2°C. However, countries still face significant challenges in reducing greenhouse gas emissions. Economic interests, energy dependence, and political inertia have slowed the implementation of these goals. Meanwhile, the scientific community warns that without immediate and drastic measures, the Earth could experience irreversible damage within the next few decades. Global efforts to transition to renewable energy sources, improve carbon capture technology, and implement sustainability practices are crucial for mitigating the impacts of climate change.",
+      "articleType": "新闻",
+      "difficultyLevel": "高级",
+      "courseLevel": "进阶",
+      "coverImage": "https://example.com/climate-action.jpg",
+      "estimatedTime": 30,
+      "wordCount": 950,
+      "tags": [ "气候变化", "全球变暖", "环境政策" ],
+      "createdAt": "2024-07-01T10:00:00Z"
+    }
+
+  ]
+}
